@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugLister Optimizer", "DebugLister Optimizer\DebugLister Optimizer.csproj", "{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1.2 release|Any CPU = 1.2 release|Any CPU
+		1.2 debug|Any CPU = 1.2 debug|Any CPU
+		1.3 debug|Any CPU = 1.3 debug|Any CPU
+		1.3 release|Any CPU = 1.3 release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.2 release|Any CPU.ActiveCfg = 1.2 release|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.2 release|Any CPU.Build.0 = 1.2 release|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.2 debug|Any CPU.ActiveCfg = 1.2 debug|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.2 debug|Any CPU.Build.0 = 1.2 debug|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.3 debug|Any CPU.ActiveCfg = 1.3 debug|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.3 debug|Any CPU.Build.0 = 1.3 debug|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.3 release|Any CPU.ActiveCfg = 1.3 release|Any CPU
+		{5EB5AA13-829B-4A24-A2CD-A64A6663AD74}.1.3 release|Any CPU.Build.0 = 1.3 release|Any CPU
+	EndGlobalSection
+EndGlobal
